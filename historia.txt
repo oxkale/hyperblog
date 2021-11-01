@@ -3,4 +3,4 @@ se agrega cambio de prueba adicional
 
 hoy estoy aprendiendo github
 
-se agrega linea nueva para edicion en git
+se agrega linea nueva para edicion en git asd

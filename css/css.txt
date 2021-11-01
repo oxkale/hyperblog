@@ -1,4 +1,4 @@
 body 
   test center
 
-letra fontfamily curier
+letra fontfamily arial

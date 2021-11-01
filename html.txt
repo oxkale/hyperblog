@@ -3,8 +3,8 @@ html
     head
 <<<<<<< HEAD
 =======
-         cabecera
-              texto de cabecera mejorado
+         cabecera   
+                 blog fde cabecera
          cabecera
 
         cabecera1footer

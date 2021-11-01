@@ -3,6 +3,10 @@ html
     head
     head
 
+    head1
+          contenido head 1
+    head1
+
     body 
 
     body

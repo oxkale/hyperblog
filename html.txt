@@ -1,7 +1,9 @@
 html
 
     head
-
+         cabecera
+             aqui va la cabecera
+         cabecera
     head
 
     body 

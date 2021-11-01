@@ -1,7 +1,7 @@
 body 
   test center
 
-letra fontfamily arial
+letra fontfamily curier
 
 mas estilos 
 

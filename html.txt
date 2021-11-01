@@ -7,7 +7,7 @@ html
         cabecera1footer
               texto de cabecera mejorado
          cabecera1footer
->>>>>>> cabecera
+ 
     head
 
     head1

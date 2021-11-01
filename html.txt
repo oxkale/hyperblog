@@ -1,11 +1,8 @@
 html
 
     head
-<<<<<<< HEAD
-=======
-         cabecera
-              texto de cabecera maetros
-         cabecera
+         cabecera cin merge
+    head
 
         cabecera1footer
               texto de cabecera mejorado

@@ -1,13 +1,15 @@
 html
 
     head
-         cabecera cin merge
-    head
+         cabecera   
+                 blog fde cabecera
+         cabecera
+
 
         cabecera1footer
               texto de cabecera mejorado
          cabecera1footer
- 
+
     head
 
     head1

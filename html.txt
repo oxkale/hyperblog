@@ -1,8 +1,7 @@
 html
 
     head
-<<<<<<< HEAD
-=======
+
          cabecera   
                  blog fde cabecera
          cabecera
@@ -10,7 +9,7 @@ html
         cabecera1footer
               texto de cabecera mejorado
          cabecera1footer
->>>>>>> cabecera
+
     head
 
     head1
